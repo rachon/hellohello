@@ -1,2 +1,3 @@
 # hellohello
-hellowrold example
+This is just a test of typical helloWrold example.
+
